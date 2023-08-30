@@ -33,7 +33,7 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>github</id>
+			<id>github-repo</id>
 			<name>GitHub acolzi Apache Maven Packages</name>
 			<url>https://maven.pkg.github.com/acolzi/repo</url>
 		</repository>
